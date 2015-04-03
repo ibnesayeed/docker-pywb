@@ -1,4 +1,4 @@
-# PyWb
+# Docker-PyWb
 
 Python implementation of Wayback Machine for archive management and replay. More details can be found in [PyWb project repository](https://github.com/ikreymer/pywb).
 
