@@ -5,7 +5,7 @@ Python implementation of Wayback Machine for archive management and replay. More
 To run a container of this image:
 
 ```bash
-$ docker run -it ibnesayeed/docker-pywb
+$ docker run -it ibnesayeed/pywb
 ```
 
 Then open [http://0.0.0.0:8080/pywb/*/example.com](http://0.0.0.0:8080/pywb/*/example.com) in a web browser.
